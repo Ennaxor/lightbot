@@ -48,7 +48,7 @@ public class SaveRanking : MonoBehaviour {
 		string hash = Md5Sum (na + sc + mov + secret);
 		string postURL = URLAddRanking + "name=" + WWW.EscapeURL (na) + "&score=" + sc + "&movements=" + mov + "&hash=" + hash;
 
-		WWW DataPost = new WWW ("http://" + postURL);
+		WWW DataPost = new WWW ("https://" + postURL);
 		yield return DataPost;
 
 		if (DataPost.error != null && DataPost.error != "")

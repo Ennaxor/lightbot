@@ -1,14 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Ranking\ShowRanking.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Ranking\SaveRanking.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerBehavior.cs" Line="228" Column="30" />
+      <File FileName="Assets\Scripts\PlayerBehavior.cs" Line="437" Column="21" />
       <File FileName="Assets\Scripts\NextLevel.cs" Line="43" Column="3" />
-      <File FileName="Assets\Scripts\Ranking\SaveRanking.cs" Line="29" Column="56" />
-      <File FileName="Assets\Scripts\Ranking\ShowRanking.cs" Line="14" Column="2" />
-      <File FileName="Assets\Scripts\SaveStats.cs" Line="7" Column="23" />
-      <File FileName="Assets\Scripts\MenuBehavior.cs" Line="196" Column="63" />
+      <File FileName="Assets\Scripts\Ranking\SaveRanking.cs" Line="51" Column="33" />
+      <File FileName="Assets\Scripts\Ranking\ShowRanking.cs" Line="33" Column="54" />
+      <File FileName="Assets\Scripts\SaveStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuBehavior.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\CreateLevel.cs" Line="36" Column="13" />
+      <File FileName="Assets\Scripts\RotateCamara.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

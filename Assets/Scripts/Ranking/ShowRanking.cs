@@ -30,7 +30,7 @@ public class ShowRanking : MonoBehaviour {
 
 	IEnumerator getPlayers() {
 		txtLoading.text = "Loading...";
-		WWW DataServer = new WWW ("http://" + URLRanking);
+		WWW DataServer = new WWW ("https://" + URLRanking);
 	
 		yield return DataServer;
 		if (DataServer.error != null && DataServer.error != "") {
